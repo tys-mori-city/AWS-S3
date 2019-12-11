@@ -49,7 +49,7 @@ const uploadParams = {
   Bucket: "tfd.web2",
   Key: path.basename(file),
   Body: fileStream,
-  ContentType: 'image/png',
+  //ContentType: 'image/png',
   ACL: 'public-read'    // 公開指定
 };
 if (ContentType(file)) uploadParams.ContentType = ContentType(file)
