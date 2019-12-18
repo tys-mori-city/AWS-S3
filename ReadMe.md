@@ -9,7 +9,7 @@
 * インストール：実行
 * 確認：
    * aws2 --version
-   * aws s3 ls --profile [default, produser]
+   * aws configure ls --profile [default, produser]
 * 削除：appwiz.cpl
 * AWS CLI の設定：aws configure (or) aws2 configure
    * AWS Access Key ID []: AKIAVUYQGT563LEMBTVZ
