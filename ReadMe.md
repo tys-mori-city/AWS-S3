@@ -19,6 +19,10 @@
 
 #### サービスに関する設定：[参照](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/cli-configure-files.html#cli-configure-files-global)
 
+# 【AWS SDK CLI】環境変数利用
+
+* https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/cli-configure-files.html#cli-configure-files-settings
+
 
 #### Ｓ３バケット作成：
 * aws s3 mb s3://ctie.realtime.receive
